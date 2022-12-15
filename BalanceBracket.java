@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.Stack;
 
-class Challenge2 {
+class BalanceBracket {
 
 
 	public static boolean isValid(String x) {
